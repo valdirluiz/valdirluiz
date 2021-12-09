@@ -4,19 +4,19 @@
 [![Waka Readme](https://github.com/valdirluiz/valdirluiz/actions/workflows/update_stats.yml/badge.svg)](https://github.com/valdirluiz/valdirluiz/actions/workflows/update_stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 5 Contributions in the Year 2021
  > 
 > 📦 115.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 86 Public Repositories 
+> 📜 85 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 18 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -47,16 +47,19 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             ██████████████████████░░░   89.68% 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tiss-configs             8 mins              ██████████████████░░░░░░░   75.47% 
+cotriba-config           2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+wsdi-core                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +80,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/valdirluiz/valdirluiz/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->

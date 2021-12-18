@@ -47,21 +47,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     27 mins             ████████████████████████░   97.9% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gpu-painel               25 mins             ██████████████████████░░░   88.98% 
-wsdadmin                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-gpu-painel-client        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -82,5 +77,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/valdirluiz/valdirluiz/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->

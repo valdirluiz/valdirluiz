@@ -4,7 +4,7 @@
 [![Waka Readme](https://github.com/valdirluiz/valdirluiz/actions/workflows/update_stats.yml/badge.svg)](https://github.com/valdirluiz/valdirluiz/actions/workflows/update_stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,5 +77,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/valdirluiz/valdirluiz/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 02:20:07 UTC
+ Last Updated on 01/02/2022 02:25:40 UTC
 <!--END_SECTION:waka-->

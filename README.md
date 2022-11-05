@@ -10,13 +10,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2022
+> 🏆 9 Contributions in the Year 2022
  > 
-> 📦 115.6 kB Used in GitHub's Storage 
+> 📦 115.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 91 Public Repositories 
+> 📜 92 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
@@ -65,11 +65,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     33 repos            ████████████░░░░░░░░░░░░░   50.77% 
-JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
+Java                     34 repos            █████████████░░░░░░░░░░░░   51.52% 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
@@ -79,5 +79,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/valdirluiz/valdirluiz/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 03:32:30 UTC
+ Last Updated on 05/11/2022 03:18:11 UTC
 <!--END_SECTION:waka-->
